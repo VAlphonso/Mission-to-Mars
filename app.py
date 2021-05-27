@@ -1,3 +1,6 @@
+# brew services start mongodb-community@4.4
+# use mars_app
+
 from flask import Flask, render_template, redirect, url_for
 from flask_pymongo import PyMongo
 import scraping
