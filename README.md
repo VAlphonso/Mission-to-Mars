@@ -1,1 +1,3 @@
-# Mission-to-Mars
+# Mission to Mars
+
+In this repository, I am using BeautifulSoup and Splinter to scrape news articles about Mars, images from Mars, facts about Mars and full-resolution images of Mars’s hemispheres and the titles of those images. I will store the scraped data on a Mongo database and use a web application to display the data, and alter the design of the web app to accommodate these images, texts, and graphs.
